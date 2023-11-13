@@ -2,686 +2,666 @@
 	{
 		"origin": "ABC Australia",
 		"channel_name": "ID: ABC Australia",
-		"channel_id": "ABCAustralia.au.id"
+		"channel_id": "ABCAustralia.KINOZ"
 	},
 	{
 		"origin": "Aljazeera",
 		"channel_name": "ID: Al-Jazeera Arabic",
-		"channel_id": "AlJazeera.qa.id"
+		"channel_id": "AlJazeera.KINOZ"
 	},
 	{
 		"origin": "AlQuran Kareem",
 		"channel_name": "ID: Al-Qur'an Al-Kareem TV",
-		"channel_id": "AlQuranAlKareemTV.sa.id"
+		"channel_id": "AlQuranAlKareemTV.KINOZ"
 	},
 	{
 		"origin": "Animax",
 		"channel_name": "ID: Animax",
-		"channel_id": "AnimaxAsia.sg.id"
+		"channel_id": "Animax.KINOZ"
 	},
 	{
 		"origin": "Aniplus",
 		"channel_name": "ID: Aniplus",
-		"channel_id": "Aniplus.th.id"
+		"channel_id": "Aniplus.KINOZ"
 	},
 	{
 		"origin": "Antara",
 		"channel_name": "ID: Antara TV",
-		"channel_id": "AntaraTV.id"
+		"channel_id": "AntaraTV.KINOZ"
 	},
 	{
 		"origin": "ANTV",
 		"channel_name": "ID: ANTV",
-		"channel_id": "ANTV.id"
+		"channel_id": "ANTV.KINOZ"
 	},
 	{
 		"origin": "Arirang",
 		"channel_name": "ID: Arirang TV",
-		"channel_id": "ArirangTV.kr.id"
+		"channel_id": "ArirangTV.KINOZ"
 	},
 	{
 		"origin": "Asian Food Network",
 		"channel_name": "ID: Asian Food Network",
-		"channel_id": "AsianFoodNetwork.sg.id"
+		"channel_id": "AsianFoodNetwork.KINOZ"
 	},
 	{
 		"origin": "ATV",
 		"channel_name": "ID: ATV",
-		"channel_id": "ATV.id"
+		"channel_id": "ATV.KINOZ"
 	},
 	{
 		"origin": "AXN",
 		"channel_name": "ID: AXN",
-		"channel_id": "AXNIndonesia.sg.id"
+		"channel_id": "AXN.KINOZ"
 	},
 	{
 		"origin": "Bali TV",
 		"channel_name": "ID: Bali TV",
-		"channel_id": "BaliTV.id"
+		"channel_id": "BaliTV.KINOZ"
 	},
 	{
 		"origin": "beIN Sports 1",
 		"channel_name": "ID: beIN Sports 1",
-		"channel_id": "beinSports1.qa.id"
+		"channel_id": "beinSports1.KINOZ"
 	},
 	{
 		"origin": "beIN Sports 3",
 		"channel_name": "ID: beIN Sports 3",
-		"channel_id": "beinSports3.qa.id"
+		"channel_id": "beinSports3.KINOZ"
 	},
 	{
 		"origin": "Bioskop Indonesia",
 		"channel_name": "ID: Bioskop Indonesia",
-		"channel_id": "BioskopIndonesia.id"
+		"channel_id": "BioskopIndonesia.KINOZ"
 	},
 	{
 		"origin": "Bloomberg",
 		"channel_name": "ID: Bloomberg",
-		"channel_id": "BloombergTVAsia.hk.id"
+		"channel_id": "Bloomberg.KINOZ"
 	},
 	{
 		"origin": "Boomerang",
 		"channel_name": "ID: Cartoonito",
-		"channel_id": "CartoonitoSoutheastAsia.us.id"
+		"channel_id": "Cartoonito.KINOZ"
 	},
 	{
 		"origin": "BTV",
 		"channel_name": "ID: BTV",
-		"channel_id": "BTV.id"
+		"channel_id": "BTV.KINOZ"
 	},
 	{
 		"origin": "Cartoon Network",
 		"channel_name": "ID: Cartoon Network",
-		"channel_id": "CartoonNetworkAsia.sg.id"
+		"channel_id": "CartoonNetwork.KINOZ"
 	},
 	{
 		"origin": "CCTV4",
 		"channel_name": "ID: CCTV-4",
-		"channel_id": "CCTV4Asia.cn.id"
+		"channel_id": "CCTV4.KINOZ"
 	},
 	{
 		"origin": "Celestial Movie",
 		"channel_name": "ID: Celestial Movies",
-		"channel_id": "CelestialMoviesIndonesia.hk.id"
+		"channel_id": "CelestialMovies.KINOZ"
 	},
 	{
 		"origin": "CGTN Documentary",
 		"channel_name": "ID: CGTN Documentary",
-		"channel_id": "CGTNDocumentary.cn.id"
+		"channel_id": "CGTNDocumentary.KINOZ"
 	},
 	{
 		"origin": "Chinese Drama",
 		"channel_name": "ID: Chinese Drama Channel",
-		"channel_id": "ChineseDramaChannel.hk.id"
+		"channel_id": "ChineseDrama.KINOZ"
 	},
 	{
 		"origin": "Cinema World",
 		"channel_name": "ID: Cinema World",
-		"channel_id": "CinemaWorld.my.id"
+		"channel_id": "CinemaWorld.KINOZ"
 	},
 	{
 		"origin": "Citra Dangdut",
 		"channel_name": "ID: Citra Dangdut",
-		"channel_id": "CitraDangdut.id"
+		"channel_id": "CitraDangdut.KINOZ"
 	},
 	{
 		"origin": "Citra Drama",
 		"channel_name": "ID: Citra Drama",
-		"channel_id": "CitraDrama.id"
+		"channel_id": "CitraDrama.KINOZ"
 	},
 	{
 		"origin": "CNBC Asia",
 		"channel_name": "ID: CNBC Asia",
-		"channel_id": "CNBCAsia.sg.id"
+		"channel_id": "CNBCAsia.KINOZ"
 	},
 	{
 		"origin": "CNBC Indonesia",
 		"channel_name": "ID: CNBC Indonesia",
-		"channel_id": "CNBCIndonesia.id"
+		"channel_id": "CNBCIndonesia.KINOZ"
 	},
 	{
 		"origin": "CNN Indonesia",
 		"channel_name": "ID: CNN Indonesia",
-		"channel_id": "CNNIndonesia.id"
+		"channel_id": "CNNIndonesia.KINOZ"
 	},
 	{
 		"origin": "CNN International",
 		"channel_name": "ID: CNN International",
-		"channel_id": "CNNInternationalAsiaPacific.hk.id"
+		"channel_id": "CNNInternational.KINOZ"
 	},
 	{
 		"origin": "Crime Investigation",
 		"channel_name": "ID: Crime + Investigation",
-		"channel_id": "CrimePlusInvestigationAsia.sg.id"
+		"channel_id": "CrimePlusInvestigation.KINOZ"
 	},
 	{
 		"origin": "CTI Asia",
 		"channel_name": "ID: CTI Asia",
-		"channel_id": "CTIAsia.tw.id"
+		"channel_id": "CTIAsia.KINOZ"
 	},
 	{
 		"origin": "Da Vinci Learning",
 		"channel_name": "ID: Da Vinci Learning",
-		"channel_id": "DaVinci.de.id"
+		"channel_id": "DaVinci.KINOZ"
 	},
 	{
 		"origin": "Daai TV",
 		"channel_name": "ID: DAAITV",
-		"channel_id": "DAAITV.id"
+		"channel_id": "DAAITV.KINOZ"
 	},
 	{
 		"origin": "Discovery Channel",
 		"channel_name": "ID: Discovery Channel",
-		"channel_id": "DiscoveryChannelIndonesia.sg.id"
+		"channel_id": "DiscoveryChannel.KINOZ"
 	},
 	{
 		"origin": "Dreamworks",
 		"channel_name": "ID: DreamWorks Channel",
-		"channel_id": "DreamWorksChannelAsia.us.id"
+		"channel_id": "DreamWorks.KINOZ"
 	},
 	{
 		"origin": "Dunia anak",
 		"channel_name": "ID: Dunia Anak",
-		"channel_id": "DuniaAnak.id"
+		"channel_id": "DuniaAnak.KINOZ"
 	},
 	{
 		"origin": "Dunia Lain",
 		"channel_name": "ID: Dunia Lain",
-		"channel_id": "DuniaLain.id"
+		"channel_id": "DuniaLain.KINOZ"
 	},
 	{
 		"origin": "DW (English)",
 		"channel_name": "ID: DW English",
-		"channel_id": "DWEnglish.de.id"
+		"channel_id": "DWEnglish.KINOZ"
 	},
 	{
 		"origin": "Eat & Go",
 		"channel_name": "ID: Eat & Go",
-		"channel_id": "EatNGo.id"
+		"channel_id": "EatNGo.KINOZ"
 	},
 	{
 		"origin": "EBC Asia",
 		"channel_name": "ID: EBC Asia",
-		"channel_id": "EBCAsia.tw.id"
+		"channel_id": "EBCAsia.KINOZ"
 	},
 	{
 		"origin": "Euronews",
 		"channel_name": "ID: EuroNews English",
-		"channel_id": "EuroNewsEnglish.fr.id"
+		"channel_id": "EuroNews.KINOZ"
 	},
 	{
 		"origin": "FashionTV",
 		"channel_name": "ID: Fashion TV",
-		"channel_id": "FashionTV.fr.id"
+		"channel_id": "FashionTV.KINOZ"
 	},
 	{
 		"origin": "Fight Sport",
 		"channel_name": "ID: Fight Sports",
-		"channel_id": "FightSports.us.id"
+		"channel_id": "FightSports.KINOZ"
 	},
 	{
 		"origin": "Flik",
 		"channel_name": "ID: Flik",
-		"channel_id": "Flik.id"
+		"channel_id": "Flik.KINOZ"
 	},
 	{
 		"origin": "Formosa",
 		"channel_name": "ID: Formosa TV",
-		"channel_id": "FormosaTV.tw.id"
+		"channel_id": "FormosaTV.KINOZ"
 	},
 	{
 		"origin": "France 24",
 		"channel_name": "ID: France 24 English",
-		"channel_id": "France24English.fr.id"
+		"channel_id": "France24.KINOZ"
 	},
 	{
 		"origin": "Galaxy",
 		"channel_name": "ID: Galaxy",
-		"channel_id": "Galaxy.id"
+		"channel_id": "Galaxy.KINOZ"
 	},
 	{
 		"origin": "Galaxy Premium",
 		"channel_name": "ID: Galaxy Premium",
-		"channel_id": "GalaxyPremium.id"
-	},
-	{
-		"origin": "GTV",
-		"channel_name": "ID: GTV",
-		"channel_id": "GTV.id"
+		"channel_id": "GalaxyPremium.KINOZ"
 	},
 	{
 		"origin": "HGTV",
 		"channel_name": "ID: HGTV",
-		"channel_id": "HGTVAsia.us.id"
+		"channel_id": "HGTV.KINOZ"
 	},
 	{
 		"origin": "History",
 		"channel_name": "ID: History",
-		"channel_id": "HistoryAsia.us.id"
+		"channel_id": "History.KINOZ"
 	},
 	{
 		"origin": "Hits",
 		"channel_name": "ID: HITS",
-		"channel_id": "HITS.sg.id"
+		"channel_id": "HITS.KINOZ"
 	},
 	{
 		"origin": "HIts Movie",
 		"channel_name": "ID: HITS Movies",
-		"channel_id": "HITSMovies.sg.id"
+		"channel_id": "HITSMovies.KINOZ"
 	},
 	{
 		"origin": "HITS Now",
 		"channel_name": "ID: HITS Now",
-		"channel_id": "HITSNow.sg.id"
+		"channel_id": "HITSNow.KINOZ"
 	},
 	{
 		"origin": "Horee",
 		"channel_name": "ID: Horee",
-		"channel_id": "Horee.id"
+		"channel_id": "Horee.KINOZ"
 	},
 	{
 		"origin": "Horizon Sports",
 		"channel_name": "ID: Horizon Sports",
-		"channel_id": "HorizonSports.us.id"
+		"channel_id": "HorizonSports.KINOZ"
 	},
 	{
 		"origin": "IDX",
 		"channel_name": "ID: IDX Channel",
-		"channel_id": "IDXChannel.id"
+		"channel_id": "IDX.KINOZ"
 	},
 	{
 		"origin": "I-Konser",
 		"channel_name": "ID: I-Konser",
-		"channel_id": "IKonser.id"
+		"channel_id": "IKonser.KINOZ"
 	},
 	{
 		"origin": "IMC",
 		"channel_name": "ID: IMC",
-		"channel_id": "IMC.id"
+		"channel_id": "IMC.KINOZ"
 	},
 	{
 		"origin": "IndiKids",
 		"channel_name": "ID: Fun Planet",
-		"channel_id": "FunPlanet.id"
+		"channel_id": "FunPlanet.KINOZ"
 	},
 	{
 		"origin": "Indonesiana TV",
 		"channel_name": "ID: Indonesiana TV",
-		"channel_id": "IndonesianaTV.id"
+		"channel_id": "IndonesianaTV.KINOZ"
 	},
 	{
 		"origin": "Indosiar",
 		"channel_name": "ID: Indosiar",
-		"channel_id": "Indosiar.id"
-	},
-	{
-		"origin": "iNews",
-		"channel_name": "ID: iNews",
-		"channel_id": "iNews.id"
+		"channel_id": "Indosiar.KINOZ"
 	},
 	{
 		"origin": "Insert",
 		"channel_name": "ID: !nsert",
-		"channel_id": "nsert.id"
+		"channel_id": "insert.KINOZ"
 	},
 	{
 		"origin": "JakTV",
 		"channel_name": "ID: Jak TV",
-		"channel_id": "JakTV.id"
+		"channel_id": "JakTV.KINOZ"
 	},
 	{
 		"origin": "JTV",
 		"channel_name": "ID: JTV",
-		"channel_id": "JTV.id"
+		"channel_id": "JTV.KINOZ"
 	},
 	{
 		"origin": "KBS World",
 		"channel_name": "ID: KBS World",
-		"channel_id": "KBSWorld.kr.id"
+		"channel_id": "KBSWorld.KINOZ"
 	},
 	{
 		"origin": "Kix",
 		"channel_name": "ID: KIX",
-		"channel_id": "KIX.hk.id"
+		"channel_id": "KIX.KINOZ"
 	},
 	{
 		"origin": "Kompas TV",
 		"channel_name": "ID: Kompas TV",
-		"channel_id": "KompasTV.id"
+		"channel_id": "KompasTV.KINOZ"
 	},
 	{
 		"origin": "Kplus",
 		"channel_name": "ID: K+",
-		"channel_id": "KPlus.sg.id"
+		"channel_id": "KPlus.KINOZ"
 	},
 	{
 		"origin": "Kungfu TV",
 		"channel_name": "ID: Kungfu TV",
-		"channel_id": "KungfuTV.id"
+		"channel_id": "KungfuTV.KINOZ"
 	},
 	{
 		"origin": "Lifetime",
 		"channel_name": "ID: Lifetime",
-		"channel_id": "LifetimeAsia.us.id"
+		"channel_id": "Lifetime.KINOZ"
 	},
 	{
 		"origin": "Lingua",
 		"channel_name": "ID: Lingua Channel",
-		"channel_id": "LinguaChannel.id"
+		"channel_id": "Lingua.KINOZ"
 	},
 	{
 		"origin": "Mentari TV",
 		"channel_name": "ID: Mentari TV",
-		"channel_id": "MentariTV.id"
+		"channel_id": "MentariTV.KINOZ"
 	},
 	{
 		"origin": "Metro TV",
 		"channel_name": "ID: Metro TV",
-		"channel_id": "MetroTV.id"
-	},
-	{
-		"origin": "MNC",
-		"channel_name": "ID: MNCTV",
-		"channel_id": "MNCTV.id"
+		"channel_id": "MetroTV.KINOZ"
 	},
 	{
 		"origin": "MNC News",
 		"channel_name": "ID: SindoNews TV",
-		"channel_id": "SindoNews.id"
+		"channel_id": "SindoNews.KINOZ"
 	},
 	{
 		"origin": "MOJI",
 		"channel_name": "ID: Moji",
-		"channel_id": "Moji.id"
+		"channel_id": "Moji.KINOZ"
 	},
 	{
 		"origin": "Moonbug Kids",
 		"channel_name": "ID: Moonbug Kids",
-		"channel_id": "MoonbugKids.uk.id"
+		"channel_id": "MoonbugKids.KINOZ"
 	},
 	{
 		"origin": "MQTV",
 		"channel_name": "ID: MQTV",
-		"channel_id": "MQTV.id"
+		"channel_id": "MQTV.KINOZ"
 	},
 	{
 		"origin": "MTATV",
 		"channel_name": "ID: MTATV",
-		"channel_id": "MTATV.id"
+		"channel_id": "MTATV.KINOZ"
 	},
 	{
 		"origin": "MTV Live",
 		"channel_name": "ID: MTV Live",
-		"channel_id": "MTVLive.uk"
+		"channel_id": "MTVLive.KINOZ"
 	},
 	{
 		"origin": "Muhammadiyah TV",
 		"channel_name": "ID: tvMu",
-		"channel_id": "tvMu.id"
+		"channel_id": "tvMu.KINOZ"
 	},
 	{
 		"origin": "MUI TV",
 		"channel_name": "ID: TV MUI",
-		"channel_id": "TVMUI.id"
+		"channel_id": "TVMUI.KINOZ"
 	},
 	{
 		"origin": "Musik Indonesia",
 		"channel_name": "ID: Musik Indonesia",
-		"channel_id": "MusikIndonesia.id"
+		"channel_id": "MusikIndonesia.KINOZ"
 	},
 	{
 		"origin": "My Cinema",
 		"channel_name": "ID: My Cinema",
-		"channel_id": "MyCinema.id"
+		"channel_id": "MyCinema.KINOZ"
 	},
 	{
 		"origin": "My Cinema Asia",
 		"channel_name": "ID: My Cinema Asia",
-		"channel_id": "MyCinemaAsia.id"
+		"channel_id": "MyCinemaAsia.KINOZ"
 	},
 	{
 		"origin": "My Family",
 		"channel_name": "ID: My Family",
-		"channel_id": "MyFamily.id"
+		"channel_id": "MyFamily.KINOZ"
 	},
 	{
 		"origin": "MyKidz",
 		"channel_name": "ID: My Kidz",
-		"channel_id": "MyKids.id"
+		"channel_id": "MyKids.KINOZ"
 	},
 	{
 		"origin": "Nat Geo",
 		"channel_name": "ID: National Geographic Channel",
-		"channel_id": "NationalGeographicIndonesia.us.id"
+		"channel_id": "NationalGeographic.KINOZ"
 	},
 	{
 		"origin": "Nat Geo Wild",
 		"channel_name": "ID: National Geographic Wild",
-		"channel_id": "NationalGeographicWildIndonesia.us.id"
+		"channel_id": "NationalGeographicWild.KINOZ"
 	},
 	{
 		"origin": "NBA",
 		"channel_name": "ID: NBA TV",
-		"channel_id": "NBATV.us.id"
+		"channel_id": "NBATV.KINOZ"
 	},
 	{
 		"origin": "Net.",
 		"channel_name": "ID: NET.",
-		"channel_id": "NetTV.id"
+		"channel_id": "NetTV.KINOZ"
 	},
 	{
 		"origin": "News Asia",
 		"channel_name": "ID: CNA",
-		"channel_id": "CNAInternational.sg.is"
+		"channel_id": "CNA.KINOZ"
 	},
 	{
 		"origin": "nhk world Japan",
 		"channel_name": "ID: NHK World Japan",
-		"channel_id": "NHKWorldJapan.jp.id"
+		"channel_id": "NHKWorldJapan.KINOZ"
 	},
 	{
 		"origin": "Nick Junior",
 		"channel_name": "ID: Nick Jr.",
-		"channel_id": "NickJrAsia.sg.id"
+		"channel_id": "NickJr.KINOZ"
 	},
 	{
 		"origin": "Nickelodeon",
 		"channel_name": "ID: Nickelodeon",
-		"channel_id": "NickelodeonAsia.sg.id"
+		"channel_id": "Nickelodeon.KINOZ"
 	},
 	{
 		"origin": "Nusantara TV",
 		"channel_name": "ID: Nusantara TV",
-		"channel_id": "NusantaraTV.id"
+		"channel_id": "NusantaraTV.KINOZ"
 	},
 	{
 		"origin": "Panda TV",
 		"channel_name": "ID: Panda TV",
-		"channel_id": "PandaTV.id"
+		"channel_id": "PandaTV.KINOZ"
 	},
 	{
 		"origin": "Paramount",
 		"channel_name": "ID: Paramount Network",
-		"channel_id": "ParamountNetworkIndonesia.us.id"
+		"channel_id": "ParamountNetwork.KINOZ"
 	},
 	{
 		"origin": "Prambors",
 		"channel_name": "ID: Prambors TV",
-		"channel_id": "PramborsTV.id"
+		"channel_id": "PramborsTV.KINOZ"
 	},
 	{
 		"origin": "Rajawali TV",
 		"channel_name": "ID: RTV",
-		"channel_id": "RajawaliTV.id"
-	},
-	{
-		"origin": "RCTI",
-		"channel_name": "ID: RCTI",
-		"channel_id": "RCTI.id"
+		"channel_id": "RajawaliTV.KINOZ"
 	},
 	{
 		"origin": "Rock Action",
 		"channel_name": "ID: Rock Action",
-		"channel_id": "RockAction.sg.id"
+		"channel_id": "RockAction.KINOZ"
 	},
 	{
 		"origin": "Rock Entertainment",
 		"channel_name": "ID: Rock Entertainment",
-		"channel_id": "RockEntertainment.sg.id"
+		"channel_id": "RockEntertainment.KINOZ"
 	},
 	{
 		"origin": "Rodja TV",
 		"channel_name": "ID: Rodja TV",
-		"channel_id": "RodjaTV.id"
+		"channel_id": "RodjaTV.KINOZ"
 	},
 	{
 		"origin": "RRI NET",
 		"channel_name": "ID: RRI NET",
-		"channel_id": "RRINet.id"
+		"channel_id": "RRINet.KINOZ"
 	},
 	{
 		"origin": "SCTV",
 		"channel_name": "ID: SCTV",
-		"channel_id": "SCTV.id"
+		"channel_id": "SCTV.KINOZ"
 	},
 	{
 		"origin": "SEA Today",
 		"channel_name": "ID: SEA Today",
-		"channel_id": "SEAToday.id"
+		"channel_id": "SEAToday.KINOZ"
 	},
 	{
 		"origin": "Seru!",
 		"channel_name": "ID: Seru! Channel",
-		"channel_id": "SeruChannel.id"
+		"channel_id": "SeruChannel.KINOZ"
 	},
 	{
 		"origin": "SGEM",
 		"channel_name": "ID: GEM",
-		"channel_id": "SonyGem.sg.id"
+		"channel_id": "Gem.KINOZ"
 	},
 	{
 		"origin": "Shenzen",
 		"channel_name": "ID: Shenzen TV",
-		"channel_id": "ShenzhenTV.cn.id"
+		"channel_id": "ShenzhenTV.KINOZ"
 	},
 	{
 		"origin": "SONE",
 		"channel_name": "ID: ONE",
-		"channel_id": "OneTVAsia.sg.id"
+		"channel_id": "One.KINOZ"
 	},
 	{
 		"origin": "SPOTV",
 		"channel_name": "ID: SPOTV",
-		"channel_id": "SPOTV.kr.id"
+		"channel_id": "SPOTV.KINOZ"
 	},
 	{
 		"origin": "SPOTV2",
 		"channel_name": "ID: SPOTV 2",
-		"channel_id": "SPOTV2.kr.id"
+		"channel_id": "SPOTV2.KINOZ"
 	},
 	{
 		"origin": "Tawaf TV",
 		"channel_name": "ID: Tawaf TV",
-		"channel_id": "TawafTV.id"
+		"channel_id": "TawafTV.KINOZ"
 	},
 	{
 		"origin": "Tech Storm",
 		"channel_name": "ID: Tech Storm",
-		"channel_id": "TechStorm.sg.id"
+		"channel_id": "TechStorm.KINOZ"
 	},
 	{
 		"origin": "Thrill",
 		"channel_name": "ID: Thrill",
-		"channel_id": "Thrill.hk.id"
+		"channel_id": "Thrill.KINOZ"
 	},
 	{
 		"origin": "TLC",
 		"channel_name": "ID: TLC",
-		"channel_id": "TLCSoutheastAsia.sg.id"
+		"channel_id": "TLC.KINOZ"
 	},
 	{
 		"origin": "Trans7",
 		"channel_name": "ID: Trans 7",
-		"channel_id": "Trans7.id"
+		"channel_id": "Trans7.KINOZ"
 	},
 	{
 		"origin": "TransTV",
 		"channel_name": "ID: Trans TV",
-		"channel_id": "TransTV.id"
+		"channel_id": "TransTV.KINOZ"
 	},
 	{
 		"origin": "TRT World",
 		"channel_name": "ID: TRT World",
-		"channel_id": "TRTWorld.tr.id"
+		"channel_id": "TRTWorld.KINOZ"
 	},
 	{
 		"origin": "TV One",
 		"channel_name": "ID: tvOne",
-		"channel_id": "tvOne.id"
+		"channel_id": "tvOne.KINOZ"
 	},
 	{
 		"origin": "TV5Monde",
 		"channel_name": "ID: TV5 Monde",
-		"channel_id": "TV5MondeAsia.fr.id"
+		"channel_id": "TV5Monde.KINOZ"
 	},
 	{
 		"origin": "TV9 NU",
 		"channel_name": "ID: TV9 Nusantara",
-		"channel_id": "TV9Nusantara.id"
+		"channel_id": "TV9Nusantara.KINOZ"
 	},
 	{
 		"origin": "TVBS News",
 		"channel_name": "ID: TVBS News",
-		"channel_id": "TVBSNews.hk.id"
+		"channel_id": "TVBSNews.KINOZ"
 	},
 	{
 		"origin": "TVN",
 		"channel_name": "ID: tvN",
-		"channel_id": "tvNAsia.hk.id"
+		"channel_id": "tvN.KINOZ"
 	},
 	{
 		"origin": "TVN Movies",
 		"channel_name": "ID: tvN Movies",
-		"channel_id": "tvNMoviesAsia.hk.id"
+		"channel_id": "tvNMovies.KINOZ"
 	},
 	{
 		"origin": "TVRI",
 		"channel_name": "ID: TVRI Nasional",
-		"channel_id": "TVRINasional.id"
+		"channel_id": "TVRI.KINOZ"
 	},
 	{
 		"origin": "UChannel",
 		"channel_name": "ID: U-Channel",
-		"channel_id": "UChannel.id"
+		"channel_id": "UChannel.KINOZ"
 	},
 	{
 		"origin": "UseePrime",
 		"channel_name": "ID: AllPlay Entertainment",
-		"channel_id": "AllPlayEnt.id"
+		"channel_id": "AllPlayEnt.KINOZ"
 	},
 	{
 		"origin": "UseeSports",
 		"channel_name": "ID: UseeSports",
-		"channel_id": "UseeSport.id"
+		"channel_id": "UseeSport.KINOZ"
 	},
 	{
 		"origin": "UseeSports2",
 		"channel_name": "ID: UseeSports 2",
-		"channel_id": "UseeSports2.id"
+		"channel_id": "UseeSports2.KINOZ"
 	},
 	{
 		"origin": "Warner",
 		"channel_name": "ID: Warner TV",
-		"channel_id": "WarnerTVAsia.us.id"
+		"channel_id": "WarnerTV.KINOZ"
 	},
 	{
 		"origin": "ZBioskop",
 		"channel_name": "ID: Zee Bioskop",
-		"channel_id": "ZeeBioskop.in.id"
+		"channel_id": "ZeeBioskop.KINOZ"
 	},
 	{
 		"origin": "Zhejiang",
 		"channel_name": "ID: Zhejiang Satellite TV",
-		"channel_id": "ZhejiangSatelliteTV.cn.id"
+		"channel_id": "ZhejiangSatelliteTV.KINOZ"
 	}
 ]
