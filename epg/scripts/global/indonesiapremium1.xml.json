@@ -32,27 +32,27 @@
 	{
 		"origin": "Champions TV 1",
 		"channel_name": "ID: Champions TV 1",
-		"channel_id": "ChampionsTV1.id"
+		"channel_id": "ChampionsTV1.KINOZ"
 	},
 	{
 		"origin": "Champions TV 2",
 		"channel_name": "ID: Champions TV 2",
-		"channel_id": "ChampionsTV2.id"
+		"channel_id": "ChampionsTV2.KINOZ"
 	},
 	{
 		"origin": "Champions TV 3",
 		"channel_name": "ID: Champions TV 3",
-		"channel_id": "ChampionsTV3.id"
+		"channel_id": "ChampionsTV3.KINOZ"
 	},
 	{
 		"origin": "Champions TV 5",
 		"channel_name": "ID: Champions TV 5",
-		"channel_id": "ChampionsTV5.id"
+		"channel_id": "ChampionsTV5.KINOZ"
 	},
 	{
 		"origin": "Champions TV 6",
 		"channel_name": "ID: Champions TV 6",
-		"channel_id": "ChampionsTV6.id"
+		"channel_id": "ChampionsTV6.KINOZ"
 	},
 	{
 		"origin": "DAAI TV",
@@ -62,12 +62,12 @@
 	{
 		"origin": "Fashion TV Midnight Secrets",
 		"channel_name": "ID: Fashion TV Midnight Secrets",
-		"channel_id": "FashionTVMidnightSecrets.fr.id"
+		"channel_id": "FashionTVMidnightSecrets.KINOZ"
 	},
 	{
 		"origin": "Hip Hip Horee!",
 		"channel_name": "ID: Hip-Hip Horee",
-		"channel_id": "HipHipHoree.id"
+		"channel_id": "HipHipHoree.KINOZ"
 	},
 	{
 		"origin": "Horee",
@@ -97,7 +97,7 @@
 	{
 		"origin": "Makkah TV",
 		"channel_name": "ID: Makkah TV",
-		"channel_id": "MakkahTV.sa.id"
+		"channel_id": "MakkahTV.KINOZ"
 	},
 	{
 		"origin": "Mentari TV",
@@ -137,7 +137,7 @@
 	{
 		"origin": "Premier League TV",
 		"channel_name": "ID: Premier League TV",
-		"channel_id": "PremierLeagueTV.id"
+		"channel_id": "PremierLeagueTV.KINOZ"
 	},
 	{
 		"origin": "RANS Channel",
@@ -187,12 +187,12 @@
 	{
 		"origin": "World Cup 1",
 		"channel_name": "ID: Champions TV World Cup 1",
-		"channel_id": "ChampionsTVWorldCup1.id"
+		"channel_id": "ChampionsTVWorldCup1.KINOZ"
 	},
 	{
 		"origin": "World Cup 2",
 		"channel_name": "ID: Champions TV World Cup 2",
-		"channel_id": "ChampionsTVWorldCup2.id"
+		"channel_id": "ChampionsTVWorldCup2.KINOZ"
 	},
 	{
 		"origin": "Zee Bioskop",
