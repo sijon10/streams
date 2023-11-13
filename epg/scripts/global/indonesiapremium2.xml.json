@@ -72,7 +72,7 @@
 	{
 		"origin": "Berita Satu World",
 		"channel_name": "ID: BeritaSatu World",
-		"channel_id": "BeritaSatuWorld.id"
+		"channel_id": "BeritaSatuWorld.KINOZ"
 	},
 	{
 		"origin": "Berita Satu World HD",
@@ -147,7 +147,7 @@
 	{
 		"origin": "Cinemax",
 		"channel_name": "ID: Cinemax",
-		"channel_id": "CinemaxAsia.sg.id"
+		"channel_id": "CinemaxAsia.KINOZ"
 	},
 	{
 		"origin": "Cinemax HD",
@@ -237,7 +237,7 @@
 	{
 		"origin": "Garuda TV",
 		"channel_name": "ID: Garuda TV",
-		"channel_id": "GarudaTV.id"
+		"channel_id": "GarudaTV.KINOZ"
 	},
 	{
 		"origin": "GEM",
@@ -257,12 +257,12 @@
 	{
 		"origin": "HBO",
 		"channel_name": "ID: HBO",
-		"channel_id": "HBOAsia.sg.id"
+		"channel_id": "HBOAsia.KINOZ"
 	},
 	{
 		"origin": "HBO Family",
 		"channel_name": "ID: HBO Family",
-		"channel_id": "HBOFamilyAsia.sg.id"
+		"channel_id": "HBOFamilyAsia.KINOZ"
 	},
 	{
 		"origin": "HBO Family HD",
@@ -277,7 +277,7 @@
 	{
 		"origin": "HBO Hits",
 		"channel_name": "ID: HBO Hits",
-		"channel_id": "HBOHitsAsia.sg.id"
+		"channel_id": "HBOHitsAsia.KINOZ"
 	},
 	{
 		"origin": "HBO Hits HD",
@@ -287,7 +287,7 @@
 	{
 		"origin": "HBO Signature",
 		"channel_name": "ID: HBO Signature",
-		"channel_id": "HBOSignatureAsia.sg.id"
+		"channel_id": "HBOSignature.KINOZ"
 	},
 	{
 		"origin": "HBO Signature HD",
@@ -377,7 +377,7 @@
 	{
 		"origin": "Metro Globe Network - MGN",
 		"channel_name": "ID: Metro Globe Network",
-		"channel_id": "MetroGlobeNetwork.id"
+		"channel_id": "MetroGlobeNetwork.KINOZ"
 	},
 	{
 		"origin": "Metro TV",
@@ -487,7 +487,7 @@
 	{
 		"origin": "Russia Today",
 		"channel_name": "ID: Russia Today",
-		"channel_id": "RussiaToday.ru.id"
+		"channel_id": "RussiaToday.KINOZ"
 	},
 	{
 		"origin": "SCTV",
@@ -602,7 +602,7 @@
 	{
 		"origin": "Wion",
 		"channel_name": "ID: Wion",
-		"channel_id": "Wion.in.id"
+		"channel_id": "Wion.KINOZ"
 	},
 	{
 		"origin": "Zee Action",
