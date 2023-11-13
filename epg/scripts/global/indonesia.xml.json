@@ -47,7 +47,7 @@
 	{
 		"origin": "BBC Earth - [Channel 200].id",
 		"channel_name": "ID: BBC Earth",
-		"channel_id": "BBCEarthAsia.uk.id"
+		"channel_id": "BBCEarth.KINOZ"
 	},
 	{
 		"origin": "BBC Earth HD - [Channel 461].id",
@@ -57,7 +57,7 @@
 	{
 		"origin": "BBC World News - [Channel 332].id",
 		"channel_name": "ID: BBC World News",
-		"channel_id": "BBCWorldNewsAsiaPacific.uk.id"
+		"channel_id": "BBCWorldNews.KINOZ"
 	},
 	{
 		"origin": "Berita Satu - [Channel 103].id",
@@ -82,7 +82,7 @@
 	{
 		"origin": "CCM - [Channel 22].id",
 		"channel_name": "ID: Celestial Classic Movies",
-		"channel_id": "CCM.hk.id"
+		"channel_id": "CCM.KINOZ"
 	},
 	{
 		"origin": "Celestial Movies - [Channel 20].id",
@@ -92,7 +92,7 @@
 	{
 		"origin": "CGTN - [Channel 353].id",
 		"channel_name": "ID: CGTN",
-		"channel_id": "CGTN.cn.id"
+		"channel_id": "CGTN.KINOZ"
 	},
 	{
 		"origin": "CGTN Documentary - [Channel 205].id",
@@ -107,12 +107,12 @@
 	{
 		"origin": "CINEMACHI - [Channel 7].id",
 		"channel_name": "ID: Cinemachi",
-		"channel_id": "Cinemachi.uk.id"
+		"channel_id": "Cinemachi.KINOZ"
 	},
 	{
 		"origin": "CINEMACHI ACTION - [Channel 8].id",
 		"channel_name": "ID: Cinemachi",
-		"channel_id": "CineachiAction.uk.id"
+		"channel_id": "CineachiAction.KINOZ"
 	},
 	{
 		"origin": "CINEMACHI ACTION HD - [Channel 402].id",
@@ -127,7 +127,7 @@
 	{
 		"origin": "CINEMACHI KIDS - [Channel 9].id",
 		"channel_name": "ID: Cinemachi Kids",
-		"channel_id": "CinemachiKids.uk.id"
+		"channel_id": "CinemachiKids.KINOZ"
 	},
 	{
 		"origin": "CINEMACHI KIDS HD - [Channel 403].id",
@@ -137,7 +137,7 @@
 	{
 		"origin": "CINEMACHI MAX - [Channel 10].id",
 		"channel_name": "ID: Cinemachi Max",
-		"channel_id": "CinemachiMax.uk.id"
+		"channel_id": "CinemachiMax.KINOZ"
 	},
 	{
 		"origin": "CINEMACHI MAX HD - [Channel 404].id",
@@ -147,7 +147,7 @@
 	{
 		"origin": "CINEMACHI XTRA - [Channel 6].id",
 		"channel_name": "ID: Cinemachi Xtra",
-		"channel_id": "CinemachiXtra.uk.id"
+		"channel_id": "CinemachiXtra.KINOZ"
 	},
 	{
 		"origin": "CINEMACHI XTRA HD - [Channel 405].id",
@@ -177,7 +177,7 @@
 	{
 		"origin": "Entertainment - [Channel 86].id",
 		"channel_name": "ID: ent",
-		"channel_id": "Entertainment.id"
+		"channel_id": "Entertainment.KINOZ"
 	},
 	{
 		"origin": "EURONEWS - [Channel 333].id",
@@ -192,12 +192,12 @@
 	{
 		"origin": "FMN - [Channel 150].id",
 		"channel_name": "ID: FMN",
-		"channel_id": "FMN.id"
+		"channel_id": "FMN.KINOZ"
 	},
 	{
 		"origin": "FOX News - [Channel 335].id",
 		"channel_name": "ID: FOX News Channel",
-		"channel_id": "FoxNewsChannel.us.id"
+		"channel_id": "FoxNews.KINOZ"
 	},
 	{
 		"origin": "France 24 English - [Channel 352].id",
@@ -217,12 +217,12 @@
 	{
 		"origin": "Global Trekker - [Channel 201].id",
 		"channel_name": "ID: Global Trekker",
-		"channel_id": "GlobalTrekker.sg.id"
+		"channel_id": "GlobalTrekker.KINOZ"
 	},
 	{
 		"origin": "GTV - [Channel 81].id",
 		"channel_name": "ID: GTV",
-		"channel_id": "GTV.id"
+		"channel_id": "GTV.KINOZ"
 	},
 	{
 		"origin": "GTV HD - [Channel 431].id",
@@ -282,7 +282,7 @@
 	{
 		"origin": "Celebrities TV - [Channel 96].id",
 		"channel_name": "ID: Celebrities TV",
-		"channel_id": "CelebritiesTV.id"
+		"channel_id": "CelebritiesTV.KINOZ"
 	},
 	{
 		"origin": "JAKTV - [Channel 113].id",
@@ -292,7 +292,7 @@
 	{
 		"origin": "Kids TV - [Channel 46].id",
 		"channel_name": "ID: Kids TV",
-		"channel_id": "KidsTV.id"
+		"channel_id": "KidsTV.KINOZ"
 	},
 	{
 		"origin": "KIX - [Channel 161].id",
@@ -312,7 +312,7 @@
 	{
 		"origin": "Okezone TV - [Channel 90].id",
 		"channel_name": "ID: Okezone",
-		"channel_id": "Okezone.id"
+		"channel_id": "Okezone.KINOZ"
 	},
 	{
 		"origin": "Lifetime - [Channel 167].id",
@@ -342,12 +342,12 @@
 	{
 		"origin": "Sportstars - [Channel 102].id",
 		"channel_name": "ID: SportStars",
-		"channel_id": "SportStars.id"
+		"channel_id": "SportStars.KINOZ"
 	},
 	{
 		"origin": "Sportstars 2 - [Channel 98].id",
 		"channel_name": "ID: SportStars 2",
-		"channel_id": "SportStars2.id"
+		"channel_id": "SportStars2.KINOZ"
 	},
 	{
 		"origin": "Sportstars 2 HD - [Channel 422].id",
@@ -357,12 +357,12 @@
 	{
 		"origin": "Sportstars 3 - [Channel 99].id",
 		"channel_name": "ID: SportStars 3",
-		"channel_id": "SportStars3.id"
+		"channel_id": "SportStars3.KINOZ"
 	},
 	{
 		"origin": "Sportstars 4 - [Channel 88].id",
 		"channel_name": "ID: SportStars 4",
-		"channel_id": "SportStars4.id"
+		"channel_id": "SportStars4.KINOZ"
 	},
 	{
 		"origin": "Sportstars 4 HD - [Channel 424].id",
@@ -377,7 +377,7 @@
 	{
 		"origin": "MNCTV - [Channel 82].id",
 		"channel_name": "ID: MNCTV",
-		"channel_id": "MNCTV.id"
+		"channel_id": "MNCTV.KINOZ"
 	},
 	{
 		"origin": "MNCTV HD - [Channel 432].id",
@@ -387,7 +387,7 @@
 	{
 		"origin": "MTV 90's - [Channel 149].id",
 		"channel_name": "ID: MTV '90s",
-		"channel_id": "MTV90s.us.id"
+		"channel_id": "MTV90s.KINOZ"
 	},
 	{
 		"origin": "MTV LIVE - [Channel 148].id",
@@ -397,12 +397,12 @@
 	{
 		"origin": "Music TV - [Channel 111].id",
 		"channel_name": "ID: Music TV",
-		"channel_id": "MusicTV.id"
+		"channel_id": "MusicTV.KINOZ"
 	},
 	{
 		"origin": "Muslim TV - [Channel 92].id",
 		"channel_name": "ID: Muslim TV",
-		"channel_id": "MuslimTV.id"
+		"channel_id": "MuslimTV.KINOZ"
 	},
 	{
 		"origin": "My Cinema - [Channel 16].id",
@@ -427,12 +427,12 @@
 	{
 		"origin": "Nat Geo Wild HD - [Channel 463].id",
 		"channel_name": "ID: Love Nature",
-		"channel_id": "LoveNature.us.id"
+		"channel_id": "LoveNature.KINOZ"
 	},
 	{
 		"origin": "National Geographic Channel - [Channel 202].id",
 		"channel_name": "ID: Outdoor Channel",
-		"channel_id": "OutdoorChannel.us.id"
+		"channel_id": "OutdoorChannel.KINOZ"
 	},
 	{
 		"origin": "National Geographic Channel HD - [Channel 460].id",
@@ -457,7 +457,7 @@
 	{
 		"origin": "NHK World Premium - [Channel 354].id",
 		"channel_name": "ID: NHK World Premium",
-		"channel_id": "NHKWorldPremium.jp.id"
+		"channel_id": "NHKWorldPremium.KINOZ"
 	},
 	{
 		"origin": "Nick Jr. HD - [Channel 472].id",
@@ -502,7 +502,7 @@
 	{
 		"origin": "RCTI - [Channel 80].id",
 		"channel_name": "ID: RCTI",
-		"channel_id": "RCTI.id"
+		"channel_id": "RCTI.KINOZ"
 	},
 	{
 		"origin": "RCTI HD - [Channel 430].id",
@@ -532,7 +532,7 @@
 	{
 		"origin": "Soccer Channel - [Channel 101].id",
 		"channel_name": "ID: Soccer Channel",
-		"channel_id": "SoccerChannel.id"
+		"channel_id": "SoccerChannel.KINOZ"
 	},
 	{
 		"origin": "Soccer Channel HD - [Channel 420].id",
@@ -627,6 +627,6 @@
 	{
 		"origin": "Zoomoo - [Channel 39].id",
 		"channel_name": "ID: ZooMoo",
-		"channel_id": "ZooMoo.sg.id"
+		"channel_id": "ZooMoo.KINOZ"
 	}
 ]
