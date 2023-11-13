@@ -245,6 +245,11 @@
 		"channel_id": "GalaxyPremium.KINOZ"
 	},
 	{
+		"origin": "GTV",
+		"channel_name": "ID: GTV",
+		"channel_id": "GTV.id"
+	},
+	{
 		"origin": "HGTV",
 		"channel_name": "ID: HGTV",
 		"channel_id": "HGTV.KINOZ"
@@ -310,6 +315,11 @@
 		"channel_id": "Indosiar.KINOZ"
 	},
 	{
+		"origin": "iNews",
+		"channel_name": "ID: iNews",
+		"channel_id": "iNews.id"
+	},
+	{
 		"origin": "Insert",
 		"channel_name": "ID: !nsert",
 		"channel_id": "insert.KINOZ"
@@ -368,6 +378,11 @@
 		"origin": "Metro TV",
 		"channel_name": "ID: Metro TV",
 		"channel_id": "MetroTV.KINOZ"
+	},
+	{
+		"origin": "MNC",
+		"channel_name": "ID: MNCTV",
+		"channel_id": "MNCTV.id"
 	},
 	{
 		"origin": "MNC News",
@@ -498,6 +513,11 @@
 		"origin": "Rajawali TV",
 		"channel_name": "ID: RTV",
 		"channel_id": "RajawaliTV.KINOZ"
+	},
+	{
+		"origin": "RCTI",
+		"channel_name": "ID: RCTI",
+		"channel_id": "RCTI.id"
 	},
 	{
 		"origin": "Rock Action",
