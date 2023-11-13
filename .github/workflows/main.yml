@@ -21,7 +21,7 @@ jobs:
         run: |
           git pull
           git config --global user.email "hendrihen296@gmail.com"
-          git config --global user.name "sijon10"
+          git config --global user.name "Emperor Team"
       - name: generate
         run: |
           cd epg/scripts
@@ -35,5 +35,5 @@ jobs:
       - name: commit
         run: |
           git add -A
-          git commit -m "Generate EPG"
+          git commit -m "Generate EPG every day"
           git push
